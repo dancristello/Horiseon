@@ -1,1 +1,1 @@
-# Horiseon
+# Horiseon is a social media marketing agency.
